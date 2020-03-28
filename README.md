@@ -21,7 +21,7 @@ npm i static-card
 ## Usage
 
 ```js
-import DynamicCard from 'static-card';
+import StaticCard from 'static-card';
 import Img from './test.jpg'
 
 const MyCard = () => {
