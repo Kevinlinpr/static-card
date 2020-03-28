@@ -1,6 +1,6 @@
 {
   "name": "static-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/StaticCard.js",
   "scripts": {
@@ -8,8 +8,12 @@
     "start": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "component",
+    "card"
+  ],
+  "author": "Kevinlinpr <kevinlinpr@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.0",
