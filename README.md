@@ -8,7 +8,7 @@ a light-weight React Static Card Component.
 
 <div align=center>
 
-![](./doc/static-card.gif)
+![](https://github.com/Kevinlinpr/static-card/blob/master/doc/static-card.gif?raw=true)
 
 </div>
 
